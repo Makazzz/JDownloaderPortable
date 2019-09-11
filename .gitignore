@@ -1,5 +1,11 @@
+# Ignore App folder
+JDownloaderPortable/App/JDownloader
+
 # Ignore Data folder
 JDownloaderPortable/Data
 
 # Ignore Work folder
 Work
+
+# Ignore log
+pac_installer_log.ini
